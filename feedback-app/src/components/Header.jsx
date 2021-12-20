@@ -8,4 +8,8 @@ function Header({ text }) {
   );
 }
 
+Header.defaultProps = {
+  text: "Calling from Dafault Props",
+};
+
 export default Header;
