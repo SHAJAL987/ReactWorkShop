@@ -9,7 +9,7 @@ function Header({ text }) {
 }
 
 Header.defaultProps = {
-  text: "Calling from Dafault Props",
+  text: "Feedback UI",
 };
 
 export default Header;
